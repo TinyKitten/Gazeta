@@ -1,0 +1,3 @@
+# TinyKitten Gazeta
+
+My blog.
