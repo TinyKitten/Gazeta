@@ -8,4 +8,4 @@ draft: false
 
 Hugo、表示速く構成もシンプルでいいですね。
 
-テーマは[https://github.com/cntrump/hugo-notepadium](hugo-notepadium)を一目惚れで使っています。
+テーマは[hugo-notepadium](https://github.com/cntrump/hugo-notepadium)を一目惚れで使っています。
