@@ -1,3 +1,17 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://blog.tinykitten.me"
+title = "TinyKitten Gazeta" 
+theme = "hugo-notepadium"
+copyright = "©2019 TinyKitten."
+
+languageCode = "ja-jp"
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
