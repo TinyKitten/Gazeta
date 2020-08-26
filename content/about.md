@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-08-27T01:12:39+09:00
-draft: true
+draft: false
 ---
 
 東京都豊島区在住のフリーのフロントエンドエンジニア。
