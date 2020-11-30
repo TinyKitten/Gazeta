@@ -1,6 +1,5 @@
 +++
 date = 2020-11-30T20:43:31Z
-draft = true
 title = "forestry.ioを使ってみる"
 
 +++
