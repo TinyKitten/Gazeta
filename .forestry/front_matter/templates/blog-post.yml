@@ -5,14 +5,14 @@ fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: title
 - name: date
   type: datetime
   label: date
   description: ''
   config:
-    required: false
+    required: true
     date_format: 
     time_format: 
     display_utc: false
