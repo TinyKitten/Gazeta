@@ -7,3 +7,5 @@ draft: false
 iPadでWorking CopyとTextasticを使ってブログをiPadだけで書いてみるテスト。
 
 どっちのアプリもUIが微妙で使いづらい。
+
+いろいろ触って思ったけどMarkdownの編集だけだったらTextaticいらないね。前に課金したやつだから痛くないけど。
