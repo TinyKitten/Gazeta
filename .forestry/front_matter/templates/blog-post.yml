@@ -18,4 +18,5 @@ fields:
     display_utc: false
   default: ''
 pages:
+- content/posts/apple-silicon-mac.md
 - content/posts/forestry.io.md
