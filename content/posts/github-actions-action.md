@@ -1,6 +1,6 @@
 +++
 date = 2021-01-26T15:00:00Z
-title = "生まれて初めてGitHub ActionsのActionを"
+title = "生まれて初めてGitHub ActionsのActionを作った話"
 
 +++
 [https://music.apple.com/jp/album/%E8%A3%B8%E8%B6%B3%E3%81%A7summer/1537746569?i=1537746570](https://music.apple.com/jp/album/%E8%A3%B8%E8%B6%B3%E3%81%A7summer/1537746569?i=1537746570 "https://music.apple.com/jp/album/%E8%A3%B8%E8%B6%B3%E3%81%A7summer/1537746569?i=1537746570")
