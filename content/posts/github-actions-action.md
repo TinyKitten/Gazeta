@@ -17,6 +17,8 @@ title = "生まれて初めてGitHub ActionsのActionを作った話"
 
 コード的に何してるかというと特定のディレクトリのJSONをgrabしてJSON Arrayに変換、Actionに食わせてゴニョゴニョする感じです。
 
+Actionの方はES6でコードを書いてたのですが、そのままでは動かないということで[ncc](https://github.com/vercel/ncc "https://github.com/vercel/ncc")というツールを使うのが推奨されてます。あとはnode_modulesをそのままCommitするとかいう脳筋な方法も。
+
 ソースおいておきますね
 
 [https://github.com/TeamKitten/Records](https://github.com/TeamKitten/Records "https://github.com/TeamKitten/Records")
