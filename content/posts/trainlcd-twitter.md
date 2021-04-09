@@ -11,6 +11,6 @@ title = "ブログを書くモチベがないけどTrainLCDのTwitterアカウ�
 
 ボクチンが個人的に作ってるモバイルアプリ「[**TrainLCD**](https://trainlcd.tinykitten.me)」の公式ツイタ垢作りました。どしどしフォローしてRTしてね♥
 
-[**https://twitter.com/TrainLCD**](https://twitter.com/TrainLCD)
+[**https://twitter.com/TrainLCD**](https://twitter.com/TrainLCD "https://twitter.com/TrainLCD")
 
 つぎはTrainLCDのアップデート内容を配信するnote作ろうかな...
