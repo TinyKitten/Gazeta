@@ -1,0 +1,35 @@
+languageCode: "ja-JP"
+baseUrl: ""
+title: "Institute of Kitten"
+theme: "anubis"
+paginate: 10
+disqusShortname: "yourdiscussshortname"
+googleAnalytics: "G-210435265"
+enableRobotsTXT: true
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      title: Archive
+      url: /posts/
+      weight: 0
+
+params:
+  author: "TinyKitten"
+  email: ts@tinykitten.me
+  avatar: "/system-images/me.png"
+  logo: "/system-images/logo.svg"
+  description: ""
+  images:
+    - system-images/og-featured.png
+  dateFormat: "2006-01-02"
+  paginationSinglePost: true
+  style: light
+  readMore: false
+  disableSummary: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
