@@ -22,7 +22,7 @@ params:
   logo: "/system-images/logo.svg"
   description: ""
   images:
-    - system-images/og-featured.png
+    - /system-images/og-featured.png
   dateFormat: "2006-01-02"
   paginationSinglePost: true
   style: light
