@@ -3,7 +3,6 @@ baseUrl: ""
 title: "Institute of Kitten"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
 googleAnalytics: "G-210435265"
 enableRobotsTXT: true
 
