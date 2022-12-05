@@ -16,7 +16,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-  default: ''
+  default: now
 pages:
 - content/posts/apple-silicon-mac.md
 - content/posts/forestry.io.md
