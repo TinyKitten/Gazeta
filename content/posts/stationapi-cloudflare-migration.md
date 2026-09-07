@@ -1,6 +1,6 @@
 ---
-title: "TrainLCDのAPIをCloudflare Workersに完全移行した"
-date: 2026-09-07T20:00:00+09:00
+title: "個人開発基盤をまるごとCloudflareに引っ越して爆速で総合的体験を向上させた話"
+date: 2026-09-07T00:00:00+09:00
 draft: false
 ---
 
