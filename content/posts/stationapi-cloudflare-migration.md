@@ -8,7 +8,7 @@ draft: false
 
 めっちゃお久しぶりです。きったんです。[TrainLCD](https://trainlcd.app/)の駅・路線情報や経路検索を支える[StationAPI](https://github.com/TrainLCD/StationAPI)をCloudflare Workersへ完全移行しました。
 
-Rustで書いているAPIをWebAssemblyにコンパイルしてWorkers上で動かしています。あわせてPostgreSQLもgRPCもその手前にあったBFFもなくなりました。データベースを別のサービスへ引っ越したわけでもなく、検索に使うデータごとWASMに入っています。
+StationAPIはもともとRustで開発していたため、今回はそれをWebAssemblyにコンパイルしてWorkers上で動かす構成にしました。あわせてPostgreSQLもgRPCもその手前にあったBFFもなくなりました。データベースを別のサービスへ引っ越したわけでもなく、検索に使うデータごとWASMに入っています。
 
 今回は移行後の構成と移行時に確認したことを書きます。
 
